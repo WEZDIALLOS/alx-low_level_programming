@@ -2,8 +2,8 @@
 
 /**
  * _isalpa - Checks for alphabetic character
- * @c: The character to bechecked
- * Retuen: 1 for alphabetic character or 0 for anything else
+ * @c: The character to be checked
+ * Return: 1 for alphabetic character or 0 for anything else
  */
 
 int _isalpha(int c)
